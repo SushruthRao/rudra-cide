@@ -1,2 +1,2 @@
 # rudra-cide
-cidethon
+Made for CID Hackathon by Team Rudra
