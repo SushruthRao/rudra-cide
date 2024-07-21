@@ -1,7 +1,7 @@
 # rudra-cide
 Made for CID Hackathon by Team Rudra
 
+<img src="/000699.jpg">
+<img src="/000700.jpg">
+<img src="/000701.jpg">
 
-![alt text](https://github.com/SushruthRao/rudra-cide/000699.jpg?raw=true)
-![Github image](https://github.com/SushruthRao/rudra-cide/000700.jpg)
-![Github image](https://github.com/SushruthRao/rudra-cide/000701.jpg)
